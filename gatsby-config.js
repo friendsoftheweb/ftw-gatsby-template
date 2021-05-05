@@ -1,6 +1,9 @@
 module.exports = {
+  flags: {
+    FAST_DEV: true
+  },
   siteMetadata: {
-    title: 'Wordpress Gatsby Test'
+    title: 'FTW Gatsby Template'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
