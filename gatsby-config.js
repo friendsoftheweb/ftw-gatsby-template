@@ -6,13 +6,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
-      resolve: 'gatsby-plugin-postcss',
-      options: {
-        parser: require('postcss-scss'),
-        postCssPlugins: [require('autoprefixer')]
-      }
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src`
