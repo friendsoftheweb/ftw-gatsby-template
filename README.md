@@ -79,12 +79,3 @@ with:
 ```sh
 $ yarn install
 ```
-
-## Deploying
-
-The site is expected to be deployed via Github Pages which can be triggered
-with:
-
-```sh
-$ yarn  deploy
-```
