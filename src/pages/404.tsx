@@ -4,7 +4,9 @@ import Layout from 'components/Layout';
 
 const NotFoundPage: React.FC = () => (
   <Layout>
-    <h1>404</h1>
+    <div className="NotFoundPage">
+      <h1>404</h1>
+    </div>
   </Layout>
 );
 
