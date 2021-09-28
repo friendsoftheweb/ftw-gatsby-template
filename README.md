@@ -23,7 +23,7 @@ issue.
 
 ## Prerequisites
 
-- [Node 14.16.1](https://nodejs.org/en/):
+- [Node 14.18.0](https://nodejs.org/en/):
   [nvm](https://github.com/creationix/nvm) is recommended to manage Node
   versions
 - [Yarn](https://yarnpkg.com/en/): manages JavaScript Dependencies
